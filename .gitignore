@@ -42,4 +42,4 @@ go.work
 
 bin/
 
-cmd/
+vendor/
